@@ -24,7 +24,7 @@ export class AppComponent implements OnInit {
     },
     {
       title: 'Skills&experience',
-      url: '/home/skills-experience',
+      url: '/skills-experience',
       icon: 'folder'
     },
     {
@@ -34,7 +34,7 @@ export class AppComponent implements OnInit {
     },
     {
       title: 'MyWork',
-      url: '/home/my-work',
+      url: '/my-work',
       icon: 'briefcase'
     }
   ];
